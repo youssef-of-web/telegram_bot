@@ -1,11 +1,11 @@
 # telegram_bot
 
-#install all modules
+#install all modules \n
 npm install
 
-#create .env file with content of TOKEN
-You can find the token in your account telegram
+#create .env file with content of TOKEN \n
+You can find the token in your account telegram \n
 TOEKN=XXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#start the server
+#start the server \n
 npm start
